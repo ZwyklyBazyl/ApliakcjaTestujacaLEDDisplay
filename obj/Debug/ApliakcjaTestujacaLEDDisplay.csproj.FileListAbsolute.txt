@@ -1,0 +1,13 @@
+C:\Users\pc\source\repos\ApliakcjaTestujacaLEDDisplay\ApliakcjaTestujacaLEDDisplay\bin\Debug\ApliakcjaTestujacaLEDDisplay.exe.config
+C:\Users\pc\source\repos\ApliakcjaTestujacaLEDDisplay\ApliakcjaTestujacaLEDDisplay\bin\Debug\ApliakcjaTestujacaLEDDisplay.exe
+C:\Users\pc\source\repos\ApliakcjaTestujacaLEDDisplay\ApliakcjaTestujacaLEDDisplay\bin\Debug\ApliakcjaTestujacaLEDDisplay.pdb
+C:\Users\pc\source\repos\ApliakcjaTestujacaLEDDisplay\ApliakcjaTestujacaLEDDisplay\bin\Debug\LEDDisplay.dll
+C:\Users\pc\source\repos\ApliakcjaTestujacaLEDDisplay\ApliakcjaTestujacaLEDDisplay\bin\Debug\LEDDisplay.pdb
+C:\Users\pc\source\repos\ApliakcjaTestujacaLEDDisplay\ApliakcjaTestujacaLEDDisplay\obj\Debug\ApliakcjaTestujacaLEDDisplay.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\ApliakcjaTestujacaLEDDisplay\ApliakcjaTestujacaLEDDisplay\obj\Debug\ApliakcjaTestujacaLEDDisplay.Form1.resources
+C:\Users\pc\source\repos\ApliakcjaTestujacaLEDDisplay\ApliakcjaTestujacaLEDDisplay\obj\Debug\ApliakcjaTestujacaLEDDisplay.Properties.Resources.resources
+C:\Users\pc\source\repos\ApliakcjaTestujacaLEDDisplay\ApliakcjaTestujacaLEDDisplay\obj\Debug\ApliakcjaTestujacaLEDDisplay.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\ApliakcjaTestujacaLEDDisplay\ApliakcjaTestujacaLEDDisplay\obj\Debug\ApliakcjaTestujacaLEDDisplay.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ApliakcjaTestujacaLEDDisplay\ApliakcjaTestujacaLEDDisplay\obj\Debug\ApliakcjaTestujacaLEDDisplay.csproj.CopyComplete
+C:\Users\pc\source\repos\ApliakcjaTestujacaLEDDisplay\ApliakcjaTestujacaLEDDisplay\obj\Debug\ApliakcjaTestujacaLEDDisplay.exe
+C:\Users\pc\source\repos\ApliakcjaTestujacaLEDDisplay\ApliakcjaTestujacaLEDDisplay\obj\Debug\ApliakcjaTestujacaLEDDisplay.pdb
