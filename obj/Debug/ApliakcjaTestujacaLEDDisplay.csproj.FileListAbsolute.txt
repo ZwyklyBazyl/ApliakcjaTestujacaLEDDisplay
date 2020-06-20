@@ -11,3 +11,5 @@ C:\Users\pc\source\repos\ApliakcjaTestujacaLEDDisplay\ApliakcjaTestujacaLEDDispl
 C:\Users\pc\source\repos\ApliakcjaTestujacaLEDDisplay\ApliakcjaTestujacaLEDDisplay\obj\Debug\ApliakcjaTestujacaLEDDisplay.csproj.CopyComplete
 C:\Users\pc\source\repos\ApliakcjaTestujacaLEDDisplay\ApliakcjaTestujacaLEDDisplay\obj\Debug\ApliakcjaTestujacaLEDDisplay.exe
 C:\Users\pc\source\repos\ApliakcjaTestujacaLEDDisplay\ApliakcjaTestujacaLEDDisplay\obj\Debug\ApliakcjaTestujacaLEDDisplay.pdb
+C:\Users\pc\source\repos\ApliakcjaTestujacaLEDDisplay\ApliakcjaTestujacaLEDDisplay\bin\Debug\FloatingText.dll
+C:\Users\pc\source\repos\ApliakcjaTestujacaLEDDisplay\ApliakcjaTestujacaLEDDisplay\bin\Debug\FloatingText.pdb

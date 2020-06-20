@@ -3,14 +3,14 @@
     partial class Form1
     {
         /// <summary>
-        /// Wymagana zmienna projektanta.
+        /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
-        /// Wyczyść wszystkie używane zasoby.
+        /// Clean up any resources being used.
         /// </summary>
-        /// <param name="disposing">prawda, jeżeli zarządzane zasoby powinny zostać zlikwidowane; Fałsz w przeciwnym wypadku.</param>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -20,11 +20,11 @@
             base.Dispose(disposing);
         }
 
-        #region Kod generowany przez Projektanta formularzy systemu Windows
+        #region Windows Form Designer generated code
 
         /// <summary>
-        /// Metoda wymagana do obsługi projektanta — nie należy modyfikować
-        /// jej zawartości w edytorze kodu.
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent()
         {
@@ -33,16 +33,25 @@
             // 
             // display1
             // 
+            this.display1.BorderColor = System.Drawing.Color.MediumSpringGreen;
+            this.display1.DisplayText = "ABL";
+            this.display1.LettersSize = 40;
+            this.display1.LettersSpacing = 80;
             this.display1.Location = new System.Drawing.Point(12, 12);
+            this.display1.MoveRight = true;
             this.display1.Name = "display1";
-            this.display1.Size = new System.Drawing.Size(562, 536);
+            this.display1.PanelHeight = 200;
+            this.display1.PanelWidth = 700;
+            this.display1.Size = new System.Drawing.Size(776, 245);
             this.display1.TabIndex = 0;
+            this.display1.TextColor = System.Drawing.Color.Orange;
+            this.display1.TickRate = 50;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(695, 618);
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.display1);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -55,4 +64,3 @@
         private LEDDisplay.Display display1;
     }
 }
-

@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="FloatingText">
+      <HintPath>..\..\Text\FloatingText_Component\Floating Text Component\FloatingText\bin\Debug\FloatingText.dll</HintPath>
+    </Reference>
     <Reference Include="LEDDisplay">
       <HintPath>..\..\LEDDisplay\LEDDisplay\bin\Debug\LEDDisplay.dll</HintPath>
     </Reference>
