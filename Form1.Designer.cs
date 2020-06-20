@@ -35,13 +35,13 @@
             // 
             this.display1.BorderColor = System.Drawing.Color.MediumSpringGreen;
             this.display1.DisplayText = "ABL";
-            this.display1.LettersSize = 40;
-            this.display1.LettersSpacing = 80;
+            this.display1.LettersSize = 10;
+            this.display1.LettersSpacing = 20;
             this.display1.Location = new System.Drawing.Point(12, 12);
             this.display1.MoveRight = true;
             this.display1.Name = "display1";
             this.display1.PanelHeight = 200;
-            this.display1.PanelWidth = 700;
+            this.display1.PanelWidth = 770;
             this.display1.Size = new System.Drawing.Size(776, 245);
             this.display1.TabIndex = 0;
             this.display1.TextColor = System.Drawing.Color.Orange;
